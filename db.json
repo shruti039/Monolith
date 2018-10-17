@@ -30,6 +30,7 @@
       "name": "Milton is running in a monolithic container",
       "bio": "Yeah !!  I am containerized.  Running in a big container"
     },
+	{
 	"id": 6,
 	"username": "newEntry",
 	"name": "This is a new entry that I just added",
